@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# My ignores
+Regression/logs/*
+
 # Distribution / packaging
 .Python
 build/
