@@ -1,3 +1,15 @@
+TF_DEMO.py
+venv/*
+tf-env/*
+
+.idea/*
+
+DATA/
+*/data/*
+
+__MACOSX
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
