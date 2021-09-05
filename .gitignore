@@ -1,5 +1,7 @@
 TF_DEMO.py
 venv/*
+tf-env/*
+
 .idea/*
 
 DATA/
